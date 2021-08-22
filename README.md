@@ -1,16 +1,15 @@
-### Hi there 👋
+Ei! Sou @fabiobatoni (Fabio Robledo Batoni de Godoy) 👋
+Sou um desenvolvedor de software 
 
-<!--
-**fabiobatoni/fabiobatoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente moro em Amparo, Brasil.
 
-Here are some ideas to get you started:
+Tenho interesse em construir aplicações para otimizar processos utilizando ferramentas modernas com intuito de aumentar meu conhecimento sobre elas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gosto de construir coisas com caracteristicas para Ciencia de dados sistemas distribuídos, bancos de dados SQL e NoSQL, Docker, Python, TypeScript (e JavaScript), APIs de back-end modernas e estruturas de front-end modernas. 🤖
+
+Espero que meus projetos sejam úteis para seu produto / empresa, ou conhecimento ☕
+
+Você pode me encontrar em:
+
+GitHub como @fabiobatoni(você está aqui)
+LinkedIn https://www.linkedin.com/in/fabio-batoni-7b8a8a170/

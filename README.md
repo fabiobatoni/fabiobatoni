@@ -18,6 +18,8 @@
   
 </div></br>
 
+##
+
 Atualmente moro em Amparo, Brasil.
 
 Tenho interesse em construir aplicações para otimizar processos, utilizando de ferramentas modernas atreladas ao intuito de aumentar meu conhecimento sobre elas. 

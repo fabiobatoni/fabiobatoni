@@ -1,16 +1,28 @@
 # Olá! Sou @fabiobatoni (Fabio Robledo Batoni de Godoy) 👋
-Sou um desenvolvedor de software 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-batoni-7b8a8a170/)
+
+![fabiobatoni GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobatoni&show_icons=true&theme=tokyonight)
+
+## Tecnologias que eu uso no meu dia: 
+  
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  
+  <img align="center" alt="React" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  
+</div></br>
 
 Atualmente moro em Amparo, Brasil.
 
 Tenho interesse em construir aplicações para otimizar processos, utilizando de ferramentas modernas atreladas ao intuito de aumentar meu conhecimento sobre elas. 
 
-Gosto de construir coisas com características para Ciência de Dados, sistemas distribuídos, bancos de dados SQL e NoSQL, Docker, Python, TypeScript (e JavaScript), APIs de back-end modernas e estruturas de front-end modernas. 🤖
-
 Espero que meus projetos ou conhecimento sejam úteis para seu produto / empresa ou conhecimento ☕
 
-Você pode me encontrar em:
 
-GitHub como @fabiobatoni(você está aqui)
 
-LinkedIn https://www.linkedin.com/in/fabio-batoni-7b8a8a170/

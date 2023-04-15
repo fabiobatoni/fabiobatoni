@@ -26,5 +26,5 @@ Tenho interesse em construir aplicações para otimizar processos, utilizando de
 
 Espero que meus projetos ou conhecimento sejam úteis para seu produto / empresa ou conhecimento ☕
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/fabiobatoni/fabiobatoni/blob/output/github-contribution-grid-snake.svg)
 

@@ -14,6 +14,10 @@
   
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-483D8B?style=for-the-badge&logo=php&logoColor=white"/>
+  
+  
+  
 </div></br>
 
 ##

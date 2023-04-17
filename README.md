@@ -1,6 +1,6 @@
 # Olá! Sou @fabiobatoni (Fabio Robledo Batoni de Godoy) 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-batoni-7b8a8a170/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobatoni)
 
 ![fabiobatoni GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiobatoni&show_icons=true&theme=tokyonight)
 

@@ -1,5 +1,9 @@
 # Olá! Sou @fabiobatoni (Fabio Robledo Batoni de Godoy) 👋
 
+![giphy](https://user-images.githubusercontent.com/57717982/235488789-51215955-276e-4f29-a767-5e46182b8420.gif)
+
+##
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobatoni)
 
 ## Tecnologias que eu uso no meu dia: 

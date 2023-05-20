@@ -26,6 +26,7 @@
   
 ### Studying in this moment:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![nestjs](https://img.shields.io/badge/-nestjs-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 
   
 

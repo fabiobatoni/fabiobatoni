@@ -23,9 +23,7 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![nestjs](https://img.shields.io/badge/-nestjs-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
-![nextjs](https://img.shields.io/badge/-nextjs-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 
   
 

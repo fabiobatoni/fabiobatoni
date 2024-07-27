@@ -23,7 +23,7 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117)&nbsp;
 
 ### Studying:
-![JAVA](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
 
   
 

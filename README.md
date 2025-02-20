@@ -14,7 +14,7 @@
 
   
 ### Main skills:
-![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,react,jest,git,github,docker,nextjs,aws,vercel)
+![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,nextjs,jest,docker,golang,aws,vercel,git)
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
